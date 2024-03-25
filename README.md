@@ -21,7 +21,7 @@ I’m currently working on [MQTTShield](https://github.com/Vi-Nk/MQTTShield)
 </p>
 
 ## <h3 align="left">My Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-stats-vink.vercel.app/api?username=vi-nk&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="vi-nk" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-vink.vercel.app/api?username=vi-nk&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=percentile&show=reviews,prs_merged&hide=contribs" alt="vi-nk" /></p>
 <p><img align="left" src="https://github-stats-vink.vercel.app/api/top-langs?username=vi-nk&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="vi-nk" /></p>
 
 
